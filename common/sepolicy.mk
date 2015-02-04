@@ -10,4 +10,4 @@ BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
     device/candy/sepolicy/common/private
 
 BOARD_SEPOLICY_DIRS += \
-   device/candy/sepolicy/common/vendor
+    device/candy/sepolicy/common/vendor
