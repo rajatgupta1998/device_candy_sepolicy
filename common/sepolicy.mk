@@ -4,4 +4,4 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    device/gzosp/sepolicy/common
+    device/candy/sepolicy/common
