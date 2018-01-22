@@ -1,0 +1,1 @@
+type hal_candy_power_hwservice, hwservice_manager_type;
