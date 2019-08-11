@@ -1,1 +1,4 @@
 allow system_server storage_stub_file:dir getattr;
+
+# Long screenshot
+add_service(system_server, longshot_service);
